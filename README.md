@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> import os
+> lyrics = """
+> تفتكر هنرجع وننسى اللي راح
+> ونداوي سوا كل الجراح
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
